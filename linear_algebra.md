@@ -85,3 +85,6 @@ use Cosine similarity to find similarity between 2 image
 ![](https://i.imgur.com/QMRr8pX.png)
 ![](https://i.imgur.com/J1ijTJd.png)
 Image Retrieval 
+
+
+<p align="right">Slide and source code from Dinh Quang Vinh teacher<p align="right">
