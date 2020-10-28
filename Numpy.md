@@ -53,3 +53,4 @@ Broadcasting
 ![](https://i.imgur.com/FSPydM8.png)
 Data processing: from excel by numpy
 
+<p align="right">Slide and source code from Dinh Quang Vinh teacher<p align="right">
