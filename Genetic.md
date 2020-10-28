@@ -242,4 +242,4 @@ population = [create_individual() for _ in range(m)]
 for i in range(n_generations):
     population = create_new_population(population, 2, i)
 ```
-
+<p align="right">Slide and source code from Dinh Quang Vinh teacher<p align="right">
