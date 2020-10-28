@@ -213,5 +213,5 @@ cv2.imwrite('result.png', image)
 ```
 <p align="center">Source code<p align="center">
 
-<p align="right">Source: Dinh Quang Vinh teacher <p align="right">
+<p align="right">Slide and source code from Dinh Quang Vinh teacher<p align="right">
 
