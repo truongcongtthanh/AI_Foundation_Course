@@ -86,6 +86,6 @@ example
 
 ![](https://i.imgur.com/kSKq4H3.png)
 self-study
-
-
+ 
+<p align="right">Slide and source code from Dinh Quang Vinh teacher<p align="right">
 
