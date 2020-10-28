@@ -8,9 +8,9 @@
 | Static              |[:link:][Static]        |
 | Genetic             |[:link:][genetic]       |
 | Linear Regression   |[:link:][Linear_Re]     |
-[Basic Python]:https://www.youtube.com/
-[Numpy]:https://www.youtube.com/
-[linear algebra]:https://www.youtube.com/
-[Static]:https://www.youtube.com/
-[genetic]:https://www.youtube.com/
-[Linear_Re]:https://www.youtube.com/
+[Basic Python]:https://github.com/truongcongtthanh/AI_Foundation_Course/blob/master/Basic%20Python.md
+[Numpy]:https://github.com/truongcongtthanh/AI_Foundation_Course/blob/master/Numpy.md
+[linear algebra]:https://github.com/truongcongtthanh/AI_Foundation_Course/blob/master/linear_algebra.md
+[Static]:https://github.com/truongcongtthanh/AI_Foundation_Course/blob/master/Statics.md
+[genetic]:https://github.com/truongcongtthanh/AI_Foundation_Course/blob/master/Genetic.md
+[Linear_Re]:https://github.com/truongcongtthanh/AI_Foundation_Course/blob/master/Linear_regression.md
