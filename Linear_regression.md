@@ -88,3 +88,5 @@ for epoch in range(n_epochs):
     print('new params: ', thetas)
 
 ```
+
+<p align="right">Slide and source code from Dinh Quang Vinh teacher<p align="right">
